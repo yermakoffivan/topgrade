@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [17.10.0](https://github.com/topgrade-rs/topgrade/compare/v17.9.0...v17.10.0) - 2026-08-02
+
+### Added
+
+- *(skills)* prefer local skills binary and add package manager config ([#2243](https://github.com/topgrade-rs/topgrade/pull/2243))
+
+### Fixed
+
+- *(rubygems)* correctly skip step instead of doing nothing
+
 ## [17.9.0](https://github.com/topgrade-rs/topgrade/compare/v17.8.0...v17.9.0) - 2026-07-28
 
 ### Added
